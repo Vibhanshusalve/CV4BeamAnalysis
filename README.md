@@ -16,7 +16,7 @@ Training and testing datasets are contained in the `data/` directory and the mac
 
 ## Results
 
-Using the baseline models included, 45% of the images in the testing dataset are analyzed entirely correctly, an impressive figure considering how many model inferences are required for an image to be entirely correct.
+Using the baseline models included, 44.78% of the images in the testing dataset are analyzed entirely correctly, an impressive figure considering how many model inferences are required for an image to be entirely correct.
 
 ## Usage
 
